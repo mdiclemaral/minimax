@@ -13,4 +13,4 @@ Agent 1 can only move the odd tiles, agent 2 can only move the even tiles while 
 
 Runs with: 
 
-python3 minimax.py game_type init goal depth soln
+python3 minimax.py game_type init_state goal_state depth solution
